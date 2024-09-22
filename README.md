@@ -1,7 +1,7 @@
-<h1>Kahve Sitesi Projesi</h1>
+<h1>Coffee Site Project</h1>
 
-HTML ve CSS kullanarak bir kahve sitesi geliştirildi. Bu projede responsive tasarım uygulandı. Ayrıca iconlara link verilerek istenilen adrese gidilmesi sağlanmıştır.
+A coffee site was developed using HTML and CSS. Responsive design was applied in this project. Also, links were given to the icons to ensure that the desired address was reached.
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Screenshot</h2>
 
 ![](/image/ekran.gif)
